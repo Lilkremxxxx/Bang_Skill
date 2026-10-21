@@ -1,0 +1,9 @@
+{
+  "name": "bang-skill",
+  "version": "1.0.0",
+  "description": "Keeps any repo self-describing for coding agents: Project_proposal.md, task_board.md, Process_phases/. Never deletes DB/code/project without user confirmation.",
+  "author": {
+    "name": "Lilkremxxxx",
+    "url": "https://github.com/Lilkremxxxx"
+  }
+}

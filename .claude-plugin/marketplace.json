@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bang-skill",
+  "description": "Project tracking skill for any repo: proposal, task board, process phases.",
+  "owner": {
+    "name": "Lilkremxxxx",
+    "url": "https://github.com/Lilkremxxxx"
+  },
+  "plugins": [
+    {
+      "name": "bang-skill",
+      "description": "Bootstraps and maintains Project_proposal.md, task_board.md and Process_phases/ in any repo.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
